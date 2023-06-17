@@ -38,9 +38,6 @@
             background-color: #000 !important;
         }
 
-        .styles__blooketText___1pMBG-camelCase {
-            filter: drop-shadow(0px 0px 10px #fff);
-        }
         
         .styles__button___2hNZo-camelCase,
         .styles__buttonFilled___23Dcn-camelCase {
@@ -91,12 +88,10 @@
         
         .styles__container___1BPm9-camelCase {
             background-color: #000 !important;
-            filter: drop-shadow(0px 0px 10px #fff);
         }
         
         .styles__container___2VzTy-camelCase {
             background-color: #000 !important;
-            filter: drop-shadow(0px 0px 10px #fff);
         }
         
         .styles__container___3St5B-camelCase {
@@ -136,7 +131,6 @@
         
         .styles__header___22Ne2-camelCase {
             background-color: #000 !important;
-            filter: drop-shadow(0px 0px 10px #fff);
         }
         
         .styles__header___2O21B-camelCase {
@@ -147,13 +141,8 @@
             background-color: #000 !important;
         }
         
-        .styles__headerImage___3p3rE-camelCase {
-            filter: drop-shadow(0px 0px 10px #fff);
-        }
-        
         .styles__headerSide___1r1-b-camelCase {
             background-color: #000 !important;
-            filter: drop-shadow(0px 0px 10px #fff);
         }
         
         .styles__infoContainer___2uI-S-camelCase {
@@ -171,11 +160,6 @@
         .styles__loginButton___1e3jI-camelCase {
             background-color: #fff !important;
             color: #000 !important;
-            filter: drop-shadow(0px 0px 10px #000);
-        }
-
-        .styles__plusButton___2dH73-camelCase {
-            filter: drop-shadow(0px 0px 10px #2d41fd);
         }
         
         .styles__postsContainer___39_IQ-camelCase {
@@ -204,17 +188,11 @@
         
         .styles__sidebar___1XqWi-camelCase {
             background-color: #000 !important;
-            filter: drop-shadow(0px 0px 10px #fff);
         }
         
         .styles__signUpButton___3_ch3-camelCase {
             background-color: #000 !important;
             color: #fff !important;
-            filter: drop-shadow(0px 0px 10px #fff);
-        }
-
-        .styles__smallButton___sQuq8-camelCase {
-            filter: drop-shadow(0px 0px 10px #fff);
         }
         
         .styles__statContainer___QKuOF-camelCase {
