@@ -7,10 +7,9 @@
 // @author       monkxy#0001
 // @namespace    http://monkxy.com
 
-// @match        https://blacket.org/*
+// @match        https://*.blacket.org/*
 
 // @require      https://blacket.org/lib/js/jquery.js
-// @grant        unsafeWindow
 // ==/UserScript==
 
 (async () => {
@@ -37,6 +36,10 @@
         
         .styles__bazaarItems___KmNa2-camelCase {
             background-color: #000 !important;
+        }
+
+        .styles__blooketText___1pMBG-camelCase {
+            filter: drop-shadow(0px 0px 10px #fff);
         }
         
         .styles__button___2hNZo-camelCase,
@@ -170,6 +173,10 @@
             color: #000 !important;
             filter: drop-shadow(0px 0px 10px #000);
         }
+
+        .styles__plusButton___2dH73-camelCase {
+            filter: drop-shadow(0px 0px 10px #2d41fd);
+        }
         
         .styles__postsContainer___39_IQ-camelCase {
             background-color: #111111 !important;
@@ -197,11 +204,16 @@
         
         .styles__sidebar___1XqWi-camelCase {
             background-color: #000 !important;
+            filter: drop-shadow(0px 0px 10px #fff);
         }
         
         .styles__signUpButton___3_ch3-camelCase {
             background-color: #000 !important;
             color: #fff !important;
+            filter: drop-shadow(0px 0px 10px #fff);
+        }
+
+        .styles__smallButton___sQuq8-camelCase {
             filter: drop-shadow(0px 0px 10px #fff);
         }
         
@@ -217,6 +229,10 @@
             background-color: #111111 !important;
         }
         
+        textarea {
+            background-color: #000 !important;
+        }
+
         input {
             background-color: #000 !important;
         }
