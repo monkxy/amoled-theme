@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Blacket Amoled
-// @version      1.0.0
+// @version      1.1.0
 // @description  Amoled theme for Blacket!
 // @icon         https://blacket.org/content/logo.png
 
@@ -38,6 +38,9 @@
             background-color: #000 !important;
         }
 
+        .styles__blookGridContainer___AK47P-camelCase {
+            background-color: #000 !important;
+        }
         
         .styles__button___2hNZo-camelCase,
         .styles__buttonFilled___23Dcn-camelCase {
@@ -144,6 +147,10 @@
         .styles__headerSide___1r1-b-camelCase {
             background-color: #000 !important;
         }
+
+        .styles__horizontalBlookGridLine___4SAvz-camelCase {
+            background-color: #fff !important;
+        }
         
         .styles__infoContainer___2uI-S-camelCase {
             background-color: #000 !important;
@@ -160,6 +167,14 @@
         .styles__loginButton___1e3jI-camelCase {
             background-color: #fff !important;
             color: #000 !important;
+        }
+
+        .styles__myTokenAmount___ANKHA-camelCase {
+            background-color: #000 !important;
+        }
+
+        .styles__otherTokenAmount___SEGGS-camelCase {
+            background-color: #000 !important;
         }
         
         .styles__postsContainer___39_IQ-camelCase {
@@ -202,6 +217,18 @@
         .styles__statsContainer___QnrRB-camelCase {
             background-color: #000 !important;
         }
+
+        .styles__tradingContainer___B1ABS-camelCase {
+            background-color: #000 !important;
+        }
+
+        .styles__tokenContainer___3yBv--camelCase {
+            background-color: #000 !important;
+        }
+
+        .styles__verticalBlookGridLine___rQWaZ-camelCase {
+            background-color: #fff !important;
+        }
         
         #searchInput {
             background-color: #111111 !important;
@@ -211,6 +238,10 @@
             background-color: #000 !important;
         }
 
+        .toastMessage {
+            background-color: #000 !important;
+        }
+        
         input {
             background-color: #000 !important;
         }
