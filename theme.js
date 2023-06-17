@@ -120,6 +120,10 @@
         .styles__edge___3eWfq-camelCase {
             background-color: #fff !important;
         }
+
+        .styles__formsForm___MvA35-camelCase {
+            background-color: #000 !important;
+        }
         
         .styles__front___vcvuy-camelCase,
         .styles__buttonInside___39vdp-camelCase {
