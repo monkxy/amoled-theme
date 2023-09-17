@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Blacket Amoled
-// @version      1.1.0
+// @version      1.2.0
 // @description  Amoled theme for Blacket!
 // @icon         https://blacket.org/content/logo.png
 
@@ -52,8 +52,8 @@
 
         .styles__buttonInside___39vdp-camelCase,
         .styles__front___vcvuy-camelCase {
-            background-color: #fff !important;
-            color: #000 !important;
+            background-color: #000 !important;
+            color: #fff !important;
         }
 
         .styles__cardContainer___NGmjp-camelCase {
@@ -128,7 +128,7 @@
         }
 
         .styles__edge___3eWfq-camelCase {
-            background-color: #fff !important;
+            background-color: #000 !important;
         }
 
         .styles__formsForm___MvA35-camelCase {
@@ -201,7 +201,7 @@
         }
 
         .styles__rightButtonInside___14imT-camelCase {
-            color: #000 !important;
+            color: #fff !important;
         }
 
         .styles__sidebar___1XqWi-camelCase {
@@ -255,7 +255,20 @@
 
         hr {
             background-color: #fff !important;
-        }    
+        }
+        
+        .styles__tokenBalance___1FHgT-camelCase {
+            color: #fff !important;
+            background-color: #000 !important;
+        }
+
+        .styles__topRightRow___dQvxc-camelCase > div:first-child {
+            background-color: #000 !important;
+        }
+
+        .styles__instantButton___2ezEk-camelCase {
+            background-color: #000 !important;
+        }
     `;
 
     $('head').append(`<style>${css}</style>`);
